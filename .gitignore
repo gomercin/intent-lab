@@ -1,0 +1,13 @@
+backups/
+runs/
+logs/
+screenshots/
+extracted/
+output/
+.env
+*.log
+*.tmp
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
